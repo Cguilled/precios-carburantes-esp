@@ -1,0 +1,13 @@
+package com.gcermen.precios.carburantes;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PreciosCarburantesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PreciosCarburantesApplication.class, args);
+	}
+
+}
